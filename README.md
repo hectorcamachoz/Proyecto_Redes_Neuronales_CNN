@@ -11,4 +11,4 @@ el motivo de esto fue por que necesitaba utilizar el gpu de google collab.
                       metricas del modelo 4 que fue el modelo que dio mejores resultados.
 - [Video mostrando la funcionalidad en tiempo real del modelo](P_P3_594557_video.mp4.mp4)
 - [Codigo para correr el modelo en tiempo real](live_capture_predict##.py)
-- [Presentacion del reporte]Proyecto_3er_pacial.pdf)
+- [Presentacion del reporte](Proyecto_3er_pacial.pdf)
